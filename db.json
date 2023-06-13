@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": "shrdsngh",
+      "name": "Sharad Singh",
+      "password": "HiThere",
+      "email": "singhsharad7477@gmail.com",
+      "phone": "7376746473",
+      "country": "india",
+      "address": "SD-93, Sadarpur\nSector - 45, Noida, Uttar Pradesh",
+      "gender": "male"
+    },
+    {
+      "id": "shrijal",
+      "name": "Shrijal Singh",
+      "password": "Shrijal@17",
+      "email": "singhshrijal@gmail.com",
+      "phone": "7829809287",
+      "country": "india",
+      "address": "hanumant nagar",
+      "gender": "female"
+    },
+    {
+      "id": "Nitesh",
+      "name": "Nitesh Singh",
+      "password": "12345678",
+      "email": "nsingh@gmail.com",
+      "phone": "6745435779",
+      "country": "india",
+      "address": "Mira Road",
+      "gender": "male"
+    }
+  ]
+}
